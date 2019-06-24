@@ -1,0 +1,85 @@
+.header {
+    background-image: url("../design1_image1.jpg");
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.nav {
+    float: left;
+    background-color: green;
+    text-align: left;
+    font-size: 15px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    margin-right: 25px;
+    margin-left: -20px;
+    margin-top: -35px;
+    margin-bottom: -15px;
+    padding-top: -30px;
+    
+}
+
+.content {
+    float: center;
+    background-color: cornflowerblue;
+
+
+}
+
+.container 
+
+.names {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+.address{
+    display: flex;
+    margin-top: 10px;
+    justify-content: flex-start
+}
+
+.coordinates {
+    
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between
+}
+
+.birth { 
+display: flex;
+margin-top: 10px;
+justify-content: space-around;
+}
+
+.schoolgrade {
+    
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+
+}
+
+.parents {
+    
+    display: flex;
+    margin-top: 10 px;
+    justify-content: space-between
+}
+
+.contact {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-between
+
+.clothing {
+    display: flex;
+
+    }
